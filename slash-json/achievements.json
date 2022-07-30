@@ -1,0 +1,12 @@
+{
+    "name" : "achievements",
+    "description" : "Get current achievments",
+    "options" : [
+        {
+            "name" : "lang",
+            "description" : "language of achievments",
+            "required" : true,
+            "type" : "STRING"
+        }
+    ]
+}
